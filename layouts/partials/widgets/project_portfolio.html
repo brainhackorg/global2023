@@ -54,7 +54,7 @@
                        but no idea how to do that in Hugo
                   */}}
 
-                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2022/labels?per_page=100&page=1"}}
+                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2023/labels?per_page=100&page=1"}}
 
                   {{ range $idx, $item := $label }}
 
@@ -71,7 +71,7 @@
 
                   {{ end }}
 
-                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2022/labels?per_page=100&page=2"}}
+                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2023/labels?per_page=100&page=2"}}
 
                   {{ range $idx, $item := $label }}
 
@@ -88,7 +88,7 @@
 
                   {{ end }}
 
-                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2022/labels?per_page=100&page=1"}}
+                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2023/labels?per_page=100&page=1"}}
 
                   {{ range $idx, $item := $label }}
 

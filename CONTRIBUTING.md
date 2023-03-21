@@ -1,4 +1,4 @@
-- [How to contribute to the Brainhack global 2022 website](#how-to-contribute-to-the-brainhack-global-2022-website)
+- [How to contribute to the Brainhack global 2023 website](#how-to-contribute-to-the-brainhack-global-2023-website)
   - [Run the website locally](#run-the-website-locally)
   - [Configuration](#configuration)
   - [Content and what to modify where](#content-and-what-to-modify-where)
@@ -12,7 +12,7 @@
   - [Updating the calendar](#updating-the-calendar)
 
 
-# How to contribute to the Brainhack global 2022 website
+# How to contribute to the Brainhack global 2023 website
 
 Hugo based static website: https://gohugo.io/documentation/
 
@@ -167,13 +167,13 @@ A quick search and replace should help you fix that.
 
 ```text
 BEGIN:VEVENT
-DTSTART:20221124T123000Z
-DTEND:20221124T170000Z
-DTSTAMP:20221122T121943Z
+DTSTART:20231124T123000Z
+DTEND:20231124T170000Z
+DTSTAMP:20231122T121943Z
 UID:3eafiooin01uhfgdg9q7qqekao@google.com
-CREATED:20220920T092305Z
+CREATED:20230920T092305Z
 DESCRIPTION:
-LAST-MODIFIED:20221109T142705Z
+LAST-MODIFIED:20231109T142705Z
 LOCATION:
 SEQUENCE:1
 STATUS:CONFIRMED
@@ -182,13 +182,13 @@ TRANSP:OPAQUE
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTART:20221124T110000Z
-DTEND:20221124T123000Z
-DTSTAMP:20221122T121943Z
+DTSTART:20231124T110000Z
+DTEND:20231124T123000Z
+DTSTAMP:20231122T121943Z
 UID:5c4i70k4a4b4q4jlgonhpu17gq@google.com
-CREATED:20220920T092236Z
+CREATED:20230920T092236Z
 DESCRIPTION:
-LAST-MODIFIED:20221109T142655Z
+LAST-MODIFIED:20231109T142655Z
 LOCATION:
 SEQUENCE:0
 STATUS:CONFIRMED

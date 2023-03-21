@@ -1,11 +1,11 @@
 backend:
   name: github
-  repo: brainhackorg/global2022
+  repo: brainhackorg/global2023
   branch: cms # Branch to update (optional; defaults to master)
   api_root: https://api.github.com
   base_url: https://api.netlify.com
-  identity_url: "https://brainhack.org/global2022/.netlify/identity"
-  gateway_url: "https://brainhack.org/global/2022/.netlify/git"
+  identity_url: "https://brainhack.org/global2023/.netlify/identity"
+  gateway_url: "https://brainhack.org/global/2023/.netlify/git"
   # cms_label_prefix: netlify-cms/
 
 publish_mode: editorial_workflow # Option to create a branch once new content is created/saved and allow editing before merging the PR
@@ -13,7 +13,7 @@ media_folder: "static/media/"
 public_folder: "media"
 # show_preview_links: false # can disable it if preview != good
 
-site_url: https://brainhack.org/global2022
+site_url: https://brainhack.org/global2023
 
 collections:
   - name: projects

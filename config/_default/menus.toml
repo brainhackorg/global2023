@@ -7,7 +7,7 @@
 # [[main]]
 #   pre = "<i class='fas fa-search-location'></i>"
 #   name = "&nbsp; Events"
-#   url = "../global2022/events/"
+#   url = "../global2023/events/"
 #   weight = 20
 #   identifier = "event"
 
@@ -15,31 +15,31 @@
 [[main]]
   pre = "<i class='fas fa-brain'></i>"
   name = "&nbsp; Home"
-  url = "../global2022/"
+  url = "../global2023/"
   weight = 10
 
 [[main]]
   pre = "<i class='fas fa-search-location'></i>"
   name = "&nbsp; Events"
-  url = "../global2022/events/"
+  url = "../global2023/events/"
   weight = 20
 
 [[main]]
   pre = "<i class='fas fa-laptop'></i>"
   name = "&nbsp; Projects"
-  url = "../global2022/projects/"
+  url = "../global2023/projects/"
   weight = 30
 
 [[main]]
   pre = "<i class='fas fa-brush'></i>"
   name = "&nbsp; Gallery"
-  url = "../global2022/gallery"
+  url = "../global2023/gallery"
   weight = 40
 
 [[main]]
   pre = "<i class='fas fa-question'></i>"
   name = "&nbsp; FAQ"
-  url = "../global2022/faq/"
+  url = "../global2023/faq/"
   weight = 50
 
 [[main]]
@@ -49,15 +49,15 @@
 
 [[main]]
   name = "Team"
-  url = "../global2022/#team"
+  url = "../global2023/#team"
   weight = 70
 
 # [[main]]
 #   name = "Partners"
-#   url = "../global2022/#partner"
+#   url = "../global2023/#partner"
 #   weight = 80
 
 [[main]]
   name = "Contact"
-  url = "../global2022/#contact"
+  url = "../global2023/#contact"
   weight = 90

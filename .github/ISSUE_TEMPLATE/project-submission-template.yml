@@ -16,11 +16,11 @@ body:
       value: |
         ## Guidelines
 
-        We are very excited to meet you at Brainhack Global 2022 🎉.
+        We are very excited to meet you at Brainhack Global 2023 🎉.
 
         To submit a project:
 
-        - register to the most suitable [Brainhack Global 2022 events](https://brainhack.org/global2022/events/) for your location, time zone, interest...
+        - register to the most suitable [Brainhack Global 2023 events](https://brainhack.org/global2023/events/) for your location, time zone, interest...
 
         - make sure you have read our **[Guidelines for Leading and Attending to Brainhack Projects](https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md)** to increase the diversity and inclusivity of your project work
 
@@ -33,7 +33,7 @@ body:
 
         After the issue is submitted, we will assign a `project monitor` to review your submission.
 
-        After approval we will add the label `status:web_ready` and your project will appear on [our Projects page](https://brainhack.org/global2022/projects).
+        After approval we will add the label `status:web_ready` and your project will appear on [our Projects page](https://brainhack.org/global2023/projects).
 
         Note that you can always update your issue after clicking on `Submit new issue`. This will also change your page on the website accordingly.
 
@@ -80,7 +80,7 @@ body:
     attributes:
       description: Brainhack Global event you registered for. Several options are
         possible.
-      label: Brainhack Global 2022 Event
+      label: Brainhack Global 2023 Event
       multiple: true
       options:
         - Bay Area Brainhack

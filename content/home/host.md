@@ -48,10 +48,10 @@ advanced:
   <div class="col-lg-8 mx-auto">
 
 We are currently recruiting sites to host local Brainhack events during
-Brainhack Global 2022!
+Brainhack Global 2023!
 
   <p class="text-white mb-5">
-    <a href="/global2022/events#host-your-own-local-brainhack" class="btn btn-light mx-auto p-3 font-weight-bold">
+    <a href="/global2023/events#host-your-own-local-brainhack" class="btn btn-light mx-auto p-3 font-weight-bold">
       APPLY TO HOST
     </a>
   </p>
