@@ -34,7 +34,7 @@ events:
   #   publishDate: # will be replaced automatically so you can leave this blank
   - title: Brainhack Warsaw
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -64,7 +64,7 @@ events:
     publishDate: '2023-12-03'
   - title: Bay Area Brainhack
     format: Hybrid
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -96,7 +96,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Physiopy
     format: Online
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -128,7 +128,7 @@ events:
     publishDate: '2023-12-03'
   - title: The BOB Hack
     format: In person
-    display: true
+    display: false
     abstract:
     summary: The exploration of contemporary research
     organizers:
@@ -160,7 +160,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Krakow
     format: In person
-    display: true
+    display: false
     abstract: The Satellite Event of the [Neuronus Forum 2023](https://neuronusforum.pl/)
     summary: Simulate the brain to predict behaviour in health and disease.
     organizers:
@@ -192,7 +192,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Australasia
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -224,7 +224,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Donostia
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -256,7 +256,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Marseille
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -437,7 +437,7 @@ events:
     publishDate: '2032-12-01'
   - title: Brainhack Marburg
     format: Online
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -469,7 +469,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Zagreb
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -562,7 +562,7 @@ events:
     publishDate: '2032-12-01'
   - title: Brainhack Washington DC
     format: in person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -625,7 +625,7 @@ events:
     publishDate: '2032-12-01'
   - title: Brainhack Western
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -655,7 +655,7 @@ events:
     publishDate: '2023-12-03'
   - title: Brainhack Geneva
     format: In person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -687,7 +687,7 @@ events:
     publishDate: '2023-12-03'
   - title: BrainHack Toronto
     format: Hybrid
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -749,7 +749,7 @@ events:
     publishDate: '2032-12-01'
   - title: Brainhack Nordic
     format: In person
-    display: true
+    display: false
     abstract:
     summary: PET imaging and BIDS
     organizers:
@@ -809,7 +809,7 @@ events:
     publishDate: '2032-12-01'
   - title: Brainhack Boston
     format: in person
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
@@ -899,7 +899,7 @@ events:
     publishDate: '2032-12-01'
   - title: BrainHack Magdeburg
     format: Hybrid
-    display: true
+    display: false
     abstract:
     summary:
     organizers:
