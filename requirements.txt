@@ -1,0 +1,6 @@
+chevron
+rich
+pre-commit
+black
+ruamel.yaml
+git+https://github.com/brainhackorg/braintransform.git

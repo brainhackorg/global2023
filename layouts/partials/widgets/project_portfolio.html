@@ -1,0 +1,210 @@
+{{/* Projects-Portfolio Widget */}}
+
+{{/* Initialise */}}
+{{ $ := .root }}
+{{ $st := .page }}
+{{ $items_type := $st.Params.content.page_type | default "project" }}
+
+{{/* Single column layout. */}}
+<div class="row">
+  <div class="col-11 mx-auto">
+
+    <div class="margin-auto">
+
+      <div class="center-text">
+        {{ with $st.Title }}<h1 class="mt-0 text-white">{{ . | markdownify | emojify }}</h1>{{ end }}
+        {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      </div>
+
+      <div class="center-text m-3">
+        <p class="btn btn-primary btn-lg active m-3 rounded text-white font-weight-bold">
+          Click the buttons below to filter the projects you may want to join.
+        </p>
+      </div>
+
+      <div>
+
+        {{ with $st.Content }}{{ . }}{{ end }}
+
+        {{ if $st.Params.content.filter_button }}
+
+          {{ $filter_default := default (int $st.Params.content.filter_default) 0 }}
+
+          {{/* Parse default filter tag from front matter in the form of either tag name or CSS class name. */}}
+          {{ $default_filter_tag_raw := (index $st.Params.content.filter_button ($filter_default)).tag }}
+          {{ $default_filter_tag := printf ".js-id-%s" (replace $default_filter_tag_raw " " "-") }}
+          {{ if or (eq (substr $default_filter_tag_raw 0 1) "*") (eq (substr $default_filter_tag_raw 0 1) ".") }}
+            {{ $default_filter_tag = $default_filter_tag_raw }}
+          {{ end }}
+
+          <span class="d-none default-project-filter">{{ $default_filter_tag }}</span>
+
+          <div class="project-toolbar">
+            <div class="project-filters">
+              <div class="btn-toolbar">
+                <div class="btn-group flex-wrap">
+                  <a href="#" data-filter="*" class="btn btn-primary btn-lg active m-1 rounded">All</a>
+
+                  {{/*  Loop through issue labels for event location first
+                        and then loop through all other issue labels.
+                  */}}
+
+                  {{/* TODO This is ugly AF and needs refactoring
+                       The repo has more than 100 labels so we need to append more labels
+                       but no idea how to do that in Hugo
+                  */}}
+
+                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2022/labels?per_page=100&page=1"}}
+
+                  {{ range $idx, $item := $label }}
+
+                    {{ $data_filter := printf ".js-id-%s" (replace .name ":" "-") }}
+
+                    {{ if findRE "event" .description }}
+                      <a  href="#"
+                      data-filter="{{ $data_filter | safeHTMLAttr }}"
+                      class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                      style="color: #fff; background-color: #{{ .color }}">
+                      {{ .description | replaceRE "event" ""}}
+                      </a>
+                    {{ end }}
+
+                  {{ end }}
+
+                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2022/labels?per_page=100&page=2"}}
+
+                  {{ range $idx, $item := $label }}
+
+                    {{ $data_filter := printf ".js-id-%s" (replace .name ":" "-") }}
+
+                    {{ if findRE "event" .description }}
+                      <a  href="#"
+                      data-filter="{{ $data_filter | safeHTMLAttr }}"
+                      class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                      style="color: #fff; background-color: #{{ .color }}">
+                      {{ .description | replaceRE "event" ""}}
+                      </a>
+                    {{ end }}
+
+                  {{ end }}
+
+                  {{$label := getJSON "https://api.github.com/repos/brainhackorg/global2022/labels?per_page=100&page=1"}}
+
+                  {{ range $idx, $item := $label }}
+
+                    {{ $data_filter := printf ".js-id-%s" (replace .name ":" "-") }}
+
+                    {{ if findRE ":" .name }}
+
+                      {{/* Parse filter tag from front matter in the form of either tag name or CSS class name. */}}
+                      {{/*  Takes the Name key from all Labels  */}}
+
+                      {{ if or (eq (substr .name 0 1) "*") (eq (substr .name 0 1) ".") }}
+                        {{ $data_filter = .name }}
+                      {{ end }}
+
+                      {{ if findRE "status:" .name }}
+
+                      {{ else if findRE "topic:" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #fff; background-color: #{{ .color }}">
+                            {{ replace (.name | replaceRE "^topic:" "") "_" " " }}
+                        </a>
+
+                      {{ else if findRE "tools:" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #fff; background-color: #{{ .color }}">
+                            {{ replace (.name | replaceRE "^tools:" "") "_" " " }}
+                        </a>
+
+                      {{ else if findRE "project_type:" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #000; background-color: #{{ .color }}">
+                            {{ replace (.name | replaceRE "^project_type:" "") "_" " " }}
+                        </a>
+
+                      {{ else if findRE "project_tools_skills:" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #000; background-color: #{{ .color }}">
+                            Skills: {{ replace (.name | replaceRE "^project_tools_skills:" "") "_" " " }}
+                        </a>
+
+                      {{ else if findRE "programming:" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #fff; background-color: #{{ .color }}">
+                            {{ replace (.name | replaceRE "^programming:" "") "_" " " }}
+                        </a>
+
+                      {{ else if findRE "modality:" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #fff; background-color: #{{ .color }}">
+                            {{ replace (.name | replaceRE "^modality:" "") "_" " " }}
+                        </a>
+
+                      {{ else if findRE "git_skills" .name }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #000; background-color: #{{ .color }}">
+                            Git level: {{ replace (.name | replaceRE "^git_skills:" "") "_" " " }}
+                        </a>
+
+                      {{ else }}
+                        <a  href="#"
+                            data-filter="{{ $data_filter | safeHTMLAttr }}"
+                            class="btn btn-primary btn-lg rounded m-1{{ if eq $idx $filter_default }} active{{ end }}"
+                            style="color: #{{ .color }}; background-color: #{{ .color }}">
+                            {{ .name | humanize }}
+                        </a>
+
+                      {{ end }}
+
+                    {{end}}
+
+                  {{end}}
+
+                </div>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+
+        <div id="list" class="{{ if or $st.Params.content.filter_button (eq $st.Params.design.view 3) }}isotope projects-container{{end}} {{if eq $st.Params.design.view 3}}js-layout-masonry{{else}}row js-layout-row{{end}} {{ if eq $st.Params.design.view 5 }}project-showcase mt-5{{end}}">
+          {{ range $idx, $item := where site.RegularPages "Type" $items_type }}
+
+            {{ $link := $item.RelPermalink }}
+            {{ $target := "" }}
+            {{ if $item.Params.external_link }}
+              {{ $link = $item.Params.external_link }}
+              {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+            {{ end }}
+
+            {{ if eq $st.Params.design.view 1 }}
+              {{ partial "portfolio_li_list" (dict "item" $item) }}
+            {{ else if eq $st.Params.design.view 2 }}
+              {{ partial "portfolio_li_compact" (dict "item" $item) }}
+            {{ else if eq $st.Params.design.view 3 }}
+              {{ partial "portfolio_li_card" (dict "widget" $st "index" $idx "item" $item "link" $link "target" $target) }}
+            {{ else }}
+              {{ partial "portfolio_li_showcase" (dict "widget" $st "index" $idx "item" $item "link" $link "target" $target) }}
+            {{ end }}
+
+          {{ end }}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>

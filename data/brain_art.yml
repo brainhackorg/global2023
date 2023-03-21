@@ -1,0 +1,42 @@
+brain_art:
+  images:
+    - name: Brainception
+      filename: "Brainception_HüdenNeşe.png"
+      author: Hüden Neşe
+      link:
+    - name: Brain Deep Dream
+      filename: "BrainDeepDream_SinaMansour.png"
+      author: Sina Mansour
+      link:
+    - name: Colors Of Hope
+      filename: "ColorsOfHope_LauraBundesen.jpg"
+      author: Laura Bundesen
+      link:
+    - name: Frida Kahlo
+      filename: "FridaKahlo_VesnaPrčkovska.jpg"
+      author: Vesna Prčkovska
+      link:
+    - name: Graphics Competition
+      filename: "GraphicsCompetition_Susanne Stoll.png"
+      author: Susanne Stoll
+      link:
+    - name: Maltreated
+      filename: "Maltreated_MooKChung.png"
+      author: MooK Chung
+      link:
+    - name: Milk and Honey
+      filename: "MilkandHoney_ZanibNaeem.png"
+      author: Zanib Naeem
+      link:
+    - name: Mind Map
+      filename: "MindMap_SaharAhmad.png"
+      author: Sahar Ahmad
+      link:
+    - name: MRI Self Portrait
+      filename: "MRISelfPortrait_JosephSalvo.png"
+      author: Joseph Salvo
+      link:
+    - name: Yarn Brain PaolaGaldi
+      filename: "YarnBrain_PaolaGaldi.png"
+      author: Paola Galdi
+      link:

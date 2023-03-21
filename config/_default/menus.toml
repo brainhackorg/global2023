@@ -1,0 +1,63 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#   desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+# TEMPLATE
+# [[main]]
+#   pre = "<i class='fas fa-search-location'></i>"
+#   name = "&nbsp; Events"
+#   url = "../global2022/events/"
+#   weight = 20
+#   identifier = "event"
+
+
+[[main]]
+  pre = "<i class='fas fa-brain'></i>"
+  name = "&nbsp; Home"
+  url = "../global2022/"
+  weight = 10
+
+[[main]]
+  pre = "<i class='fas fa-search-location'></i>"
+  name = "&nbsp; Events"
+  url = "../global2022/events/"
+  weight = 20
+
+[[main]]
+  pre = "<i class='fas fa-laptop'></i>"
+  name = "&nbsp; Projects"
+  url = "../global2022/projects/"
+  weight = 30
+
+[[main]]
+  pre = "<i class='fas fa-brush'></i>"
+  name = "&nbsp; Gallery"
+  url = "../global2022/gallery"
+  weight = 40
+
+[[main]]
+  pre = "<i class='fas fa-question'></i>"
+  name = "&nbsp; FAQ"
+  url = "../global2022/faq/"
+  weight = 50
+
+[[main]]
+  name = "Code of Conduct"
+  url = "https://brainhack.org/code-of-conduct"
+  weight = 60
+
+[[main]]
+  name = "Team"
+  url = "../global2022/#team"
+  weight = 70
+
+# [[main]]
+#   name = "Partners"
+#   url = "../global2022/#partner"
+#   weight = 80
+
+[[main]]
+  name = "Contact"
+  url = "../global2022/#contact"
+  weight = 90
