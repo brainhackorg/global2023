@@ -83,31 +83,15 @@ body:
       label: Brainhack Global 2023 Event
       multiple: true
       options:
-        - Bay Area Brainhack
-        - BrainHack Magdeburg
-        - BrainHack Toronto
-        - Brainhack Australasia
-        - Brainhack Boston
         - Brainhack Donostia
-        - Brainhack Geneva
-        - Brainhack Krakow
-        - Brainhack Marburg
-        - Brainhack Marseille
-        - Brainhack Nordic
-        - Brainhack Physiopy
-        - Brainhack Warsaw
-        - Brainhack Washington DC
-        - Brainhack Western
-        - Brainhack Zagreb
-        - The BOB Hack
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Project Description
-      description: "Add a brief description of the project.\nTry to include all the\
-        \ relevant information to answer the following questions."
+      description: "Add a brief description of the project.\nTry to include all the
+        relevant information to answer the following questions."
       value: |
         - What are you doing, for whom, and why?
         - What makes your project special and exciting?
@@ -128,9 +112,9 @@ body:
   - type: textarea
     attributes:
       label: Goals for Brainhack Global
-      description: "Add a list of milestones or deliverables that you expect to achieve\
-        \ during the event.\nTry to provide goals of varying complexity for contributors\
-        \ with different sets of skills"
+      description: "Add a list of milestones or deliverables that you expect to achieve
+        during the event.\nTry to provide goals of varying complexity for contributors
+        with different sets of skills"
     validations:
       required: true
 
@@ -158,12 +142,12 @@ body:
   - type: textarea
     attributes:
       label: Skills
-      description: "Add a list of skills needed to contribute to this project.\nTry\
-        \ to think of both coding and non-coding skills.\nYou can provide predefined\
-        \ skill levels, but it’s better if you give concrete examples of the type\
-        \ of task contributors will be facing.\nPlease make sure you create equal\
-        \ opportunities to accommodate the newcomers in your project to learn from\
-        \ each other and share the experiences."
+      description: "Add a list of skills needed to contribute to this project.\nTry
+        to think of both coding and non-coding skills.\nYou can provide predefined
+        skill levels, but it’s better if you give concrete examples of the type of
+        task contributors will be facing.\nPlease make sure you create equal opportunities
+        to accommodate the newcomers in your project to learn from each other and
+        share the experiences."
       placeholder: |
         - Python: advanced
         - FSL: basics
@@ -181,11 +165,11 @@ body:
   - type: textarea
     attributes:
       label: What will participants learn?
-      description: "In order to make your project appeal to participants of all levels,\
-        \ it is very important that you provide a list of skills that participants\
-        \ would acquire by working on your project.\nFolks that take part in Brainhacks\
-        \ for the first time usually find projects a little intimidating, make sure\
-        \ you make it appealing for them too!"
+      description: "In order to make your project appeal to participants of all levels,
+        it is very important that you provide a list of skills that participants would
+        acquire by working on your project.\nFolks that take part in Brainhacks for
+        the first time usually find projects a little intimidating, make sure you
+        make it appealing for them too!"
     validations:
       required: true
 
