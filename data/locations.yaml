@@ -35,10 +35,10 @@ events:
 
 
   - title: Brainhack Lucca
-    display: true
     format: Hybrid
+    display: true
     abstract:
-    summary: # one sentence summary of the event, will display on the website
+    summary:
     organizers:
       - Ruggero Basanisi
       - Monica Betta
@@ -57,18 +57,15 @@ events:
       lng: 10.510857315344076
     date: '2013-12-04'
     date_end: '2013-12-07'
-    mattermost_channel: # the name of the mattermost channel for this event on the brainhack server;
-                        # will be prefaced with the rest of url automatically
-                        # (e.g. https://mattermost.brainhack.org/brainhack/channels/)
+    mattermost_channel:
     twitter_handle:
     facebook:
     instagram:
     website:
     github_username:
-    image: # name of the image file in the images folder static/media/events
-    image_caption: # one will be generated automatically if none is provided
-    publishDate: # will be replaced automatically so you can leave this blank
-
+    image:
+    image_caption:
+    publishDate: '2023-08-11'
   - title: Brainhack Warsaw
     format: In person
     display: false
@@ -321,7 +318,7 @@ events:
     github_username: brainhack-marseille
     image: marseille.png
     image_caption: 'Image credit: [**Brainhack Marseille**](https://brainhack-marseille.github.io/)'
-    publishDate: '2033-08-09'
+    publishDate: '2023-08-11'
   - title: BrainHack Bloomington
     format: online
     display: false
@@ -503,7 +500,7 @@ events:
     github_username: openscienceinitiativeuniversitymarburg
     image: marburg.png
     image_caption: 'Image credit: [**Brainhack Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)'
-    publishDate: '2033-08-09'
+    publishDate: '2023-08-11'
   - title: Brainhack Zagreb
     format: In person
     display: false
