@@ -34,6 +34,9 @@ jobs:
           hugo-version: '0.105.0'
           extended: true
 
+      - name: Check content
+        run: cat /home/runner/work/global2023/global2023/content/events/brainhack_australasia/index.md
+
       - name: Build
         run: hugo --minify
 
