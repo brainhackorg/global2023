@@ -25,10 +25,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Generate content
-        run: |
-          python tools/generate_events_page.py
-          pre-commit run --all-files
+      # - name: Generate content
+      #   run: |
+      #     python tools/generate_events_page.py
+      #     pre-commit run --all-files
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
