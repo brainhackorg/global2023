@@ -720,9 +720,8 @@ events:
     format: hybrid
     display: false
     abstract:
-    summary: |
-      Brainhack brings together cross-disciplinary researchers
-        within the neuroimaging community at UCLA
+    summary: Brainhack brings together cross-disciplinary researchers within the neuroimaging
+      community at UCLA
     organizers:
       - Lucina Uddin
     contact:
