@@ -20,24 +20,11 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      # - name: Generate content
-      #   run: |
-      #     python tools/generate_events_page.py
-      #     pre-commit run --all-files
-
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.105.0'
           extended: true
-
-      - name: Check content
-        run: cat /home/runner/work/global2023/global2023/content/events/brainhack_australasia/index.md
 
       - name: Build
         run: hugo --minify

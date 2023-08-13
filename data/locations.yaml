@@ -255,15 +255,15 @@ events:
     image_caption: 'Image credit: [**Brainhack Donostia**](https://brainhack-donostia.github.io)'
     publishDate: '2023-08-11'
   - title: Brainhack Marseille
-    format: In person
+    format: Hybrid
     display: false
     abstract:
     summary:
     organizers:
-      - Sylvain Takerkart
+      - Dipankar Bachar
       - David Meunier
     contact:
-      - brainhack-marseille-orga@framalistes.org
+      - david.meunier@univ-amu.fr
     location: Institut de Neurosciences de la Timone
     address:
       street: Faculté de Médecine 27, boulevard  Jean Moulin
@@ -274,9 +274,9 @@ events:
     position:
       lat: 43.287036449254515
       lng: 5.4032124890651305
-    date: '2023-11-28'
-    date_end: '2023-11-30'
-    mattermost_channel: bhg22-marseille
+    date: '2023-12-04'
+    date_end: '2023-12-06'
+    mattermost_channel: bhg23-marseille
     twitter_handle: BrainhackM
     facebook:
     instagram:
@@ -435,17 +435,17 @@ events:
     image:
     image_caption:
     publishDate: '2033-08-09'
-  - title: Brainhack Marburg
-    format: Online
+  - title: Open Science Days Marburg
+    format: In person only
     display: false
     abstract:
     summary:
     organizers:
       - Thomas S. Hartmann
-      - Christoph Vogelbacher
+      - Lydia Riedl
     contact:
       - hartma4k@students.uni-marburg.de
-      - vogelbac@staff.uni-marburg.de
+      - riedll@staff.uni-marburg.de
     location: Open Science Initiative University Marburg
     address:
       street:
@@ -456,14 +456,14 @@ events:
     position:
       lat: 50.81080790834922
       lng: 8.774228471279875
-    date: '2023-11-29'
-    date_end: '2023-11-30'
+    date: '2023-12-04'
+    date_end: '2023-12-05'
     mattermost_channel: brainhack-marburg
-    twitter_handle: OpenScienceUM
+    twitter_handle: openscienceum
     facebook:
     instagram:
     website: https://openscienceinitiativeuniversitymarburg.github.io/
-    github_username: brainhack-marburg
+    github_username: openscienceinitiativeuniversitymarburg
     image: marburg.png
     image_caption: 'Image credit: [**Brainhack Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)'
     publishDate: '2033-08-09'
