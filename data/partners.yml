@@ -23,10 +23,10 @@ partners:
   #   website: https://www.humanbrainmapping.org/
   #   image: hbm_logo.png
 
-  - name: Oracle
-    website: https://www.oracle.com/ca-en/research/
-    image: oracle.png
+  # - name: Oracle
+  #   website: https://www.oracle.com/ca-en/research/
+  #   image: oracle.png
 
-  - name: Holopin
-    website: https://www.holopin.io/
-    image: holopin-white.png
+  # - name: Holopin
+  #   website: https://www.holopin.io/
+  #   image: holopin-white.png
