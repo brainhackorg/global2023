@@ -298,16 +298,16 @@ events:
       - David Meunier
     contact:
       - david.meunier@univ-amu.fr
-    location: Institut de Neurosciences de la Timone
+    location: Salle Pouillon, Saiint Charles campus
     address:
-      street: Faculté de Médecine 27, boulevard  Jean Moulin
+      street:
       city: Marseille
       region:
-      postcode: 13005
+      postcode:
       country: France
     position:
-      lat: 43.287036449254515
-      lng: 5.4032124890651305
+      lat: 43.30557
+      lng: 5.37775
     date: '2023-12-04'
     date_end: '2023-12-06'
     mattermost_channel: bhg23-marseille
