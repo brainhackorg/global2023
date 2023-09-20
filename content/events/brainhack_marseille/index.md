@@ -8,13 +8,13 @@ title: Brainhack Marseille
 event: Brainhack Marseille
 event_url: https://brainhack-marseille.github.io/
 
-location: Institut de Neurosciences de la Timone
+location: Salle Pouillon, Saiint Charles campus
 
 address:
-  street: Faculté de Médecine 27, boulevard  Jean Moulin
+  street:
   city: Marseille
   region:
-  postcode: 13005
+  postcode:
   country: France
 
 summary:
