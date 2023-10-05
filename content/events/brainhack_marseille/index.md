@@ -8,7 +8,7 @@ title: Brainhack Marseille
 event: Brainhack Marseille
 event_url: https://brainhack-marseille.github.io/
 
-location: Salle Pouillon, Saiint Charles campus
+location: Salle Pouillon, Saint Charles campus
 
 address:
   street:
