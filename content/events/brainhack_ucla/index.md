@@ -11,9 +11,9 @@ event_url: https://sites.google.com/view/brainhack-ucla/home
 location: UCLA
 
 address:
-  street: 
-  city: 
-  region: 
+  street:
+  city:
+  region:
   postcode: Los Angeles
   country: USA
 
@@ -21,7 +21,7 @@ summary: |
          Brainhack brings together cross-disciplinary researchers within the neuroimaging
 community at UCLA
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -54,4 +54,3 @@ links:
 
 
 ---
-

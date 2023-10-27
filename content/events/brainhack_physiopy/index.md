@@ -11,15 +11,15 @@ event_url: https://physiopy.github.io/brainhack-physiopy-2023/
 location: Physiopy
 
 address:
-  street: 
+  street:
   city: Atlantis
-  region: 
-  postcode: 
-  country: 
+  region:
+  postcode:
+  country:
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,4 +60,3 @@ links:
     url: https://www.github.com/physiopy
 
 ---
-

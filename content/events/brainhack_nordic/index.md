@@ -13,14 +13,14 @@ location: Copenhagen, Denmark
 address:
   street: Neurobiology Research Unit
   city: Copenhangen
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Denmark
 
 summary: |
          PET imaging and BIDS
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -38,7 +38,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack 
+  caption: "Image credit: [**Brainhack
 Nordic**](https://openneuropet.github.io/brainhack/)"
   focal_point: center
 
@@ -62,4 +62,3 @@ links:
     url: https://www.github.com/openneuropet
 
 ---
-

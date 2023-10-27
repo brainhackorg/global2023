@@ -11,15 +11,15 @@ event_url: https://brainhack-magdeburg.github.io/
 location: Medical Faculty, Otto von Guericke University Magdeburg
 
 address:
-  street: 
+  street:
   city: Magdeburg
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Germany
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,7 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**BrainHack 
+  caption: "Image credit: [**BrainHack
 Magdeburg**](https://brainhack-magdeburg.github.io/)"
   focal_point: center
 
@@ -65,4 +65,3 @@ links:
     url: https://www.github.com/brainhack-magdeburg
 
 ---
-

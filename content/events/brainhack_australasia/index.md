@@ -11,15 +11,15 @@ event_url: https://brainhack-aus.github.io/global2023/
 location: University of Sydney
 
 address:
-  street: 
+  street:
   city: Sydney
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Australia
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,7 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack 
+  caption: "Image credit: [**Brainhack
 Australia**](https://brainhack-aus.github.io/global2021/)"
   focal_point: center
 
@@ -65,4 +65,3 @@ links:
     url: https://www.github.com/brainhack-aus
 
 ---
-

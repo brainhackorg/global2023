@@ -6,20 +6,20 @@
 
 title: BrainHack Bloomington
 event: BrainHack Bloomington
-event_url: 
+event_url:
 
-location: 
+location:
 
 address:
-  street: 
+  street:
   city: Bloomington
   region: Indiana
-  postcode: 
+  postcode:
   country: USA
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -52,4 +52,3 @@ links:
 
 
 ---
-
