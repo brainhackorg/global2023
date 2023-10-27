@@ -6,15 +6,15 @@
 
 title: Brainhack Montreal
 event: Brainhack Montreal
-event_url: https://brainhackmtl.github.io/global2021/
+event_url:
 
-location: Centre de recherche de l'IUGM
+location: Concordia University
 
 address:
-  street: 4545 Queen Mary Rd
+  street:
   city: Montréal
   region: Québec
-  postcode: H3W 1W6
+  postcode:
   country: Canada
 
 summary:
@@ -23,12 +23,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-11-29"
-date_end: ""
+date: "2023-12-08"
+date_end: "2023-12-12"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-08-09"
+publishDate: "2023-10-26"
 
 authors: []
 tags: []
@@ -37,14 +37,10 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack Montreal**](https://brainhackmtl.github.io/global2021/)"
+  caption: ""
   focal_point: center
 
 links:
-  - icon: globe
-    icon_pack: fas
-    name: Website
-    url: https://brainhackmtl.github.io/global2021/
 
   - icon: twitter
     icon_pack: fab
@@ -54,7 +50,7 @@ links:
   - icon: mattermost
     icon_pack: custom
     name: Mattermost
-    url: https://mattermost.brainhack.org/brainhack/channels/brainhack-mtl-2021
+    url: https://mattermost.brainhack.org/brainhack/channels/bhg2023-mtl
 
 
 
