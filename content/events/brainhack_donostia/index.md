@@ -11,15 +11,15 @@ event_url: https://brainhack-donostia.github.io
 location: Basque Center on Cognition, Brain and Language
 
 address:
-  street:
+  street: 
   city: Donostia
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: Basque Country
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -64,3 +64,4 @@ links:
     url: https://www.github.com/Brainhack-Donostia
 
 ---
+

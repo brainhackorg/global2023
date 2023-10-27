@@ -6,20 +6,20 @@
 
 title: Brainhack Avoca
 event: Brainhack Avoca
-event_url:
+event_url: 
 
 location: The University of Sydney
 
 address:
-  street:
+  street: 
   city: Sydney
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: Australia
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,3 +48,4 @@ links:
 
 
 ---
+

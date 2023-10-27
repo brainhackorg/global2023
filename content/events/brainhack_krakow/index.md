@@ -13,7 +13,7 @@ location: Institute of Psychology
 address:
   street: Romana Ingardena 6
   city: Krakow
-  region:
+  region: 
   postcode: 30-060
   country: Poland
 
@@ -66,3 +66,4 @@ links:
     url: https://www.github.com/Brainhack-2023
 
 ---
+

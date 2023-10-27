@@ -691,13 +691,15 @@ events:
     publishDate: '2033-10-24'
   - title: Brainhack Western
     format: In person
-    display: false
+    display: true
     abstract:
     summary:
     organizers:
       - Suzanne Witt
+      - Keza Motlana
     contact:
       - switt4@uwo.ca
+      - kmotlana@uwo.ca
     location: University of Western Ontario
     address:
       street:
@@ -708,8 +710,8 @@ events:
     position:
       lat: 43.0101
       lng: -81.2736
-    date: '2023-11-30'
-    date_end: '2023-12-02'
+    date: '2023-11-01'
+    date_end: '2023-11-03'
     mattermost_channel:
     twitter_handle: UWOBrainhack
     facebook:
@@ -718,7 +720,7 @@ events:
     github_username: brainhackwestern
     image: western.png
     image_caption: 'Image credit: [**Brainhack Western**](https://brainhackwestern.github.io)'
-    publishDate: '2033-10-24'
+    publishDate: '2023-10-26'
   - title: Brainhack Geneva
     format: In person
     display: false
@@ -753,7 +755,7 @@ events:
     publishDate: '2033-10-24'
   - title: BrainHack Toronto
     format: Hybrid
-    display: false
+    display: true
     abstract:
     summary:
     organizers:
@@ -771,8 +773,8 @@ events:
     position:
       lat: 43.654730647517326
       lng: -79.40470761077849
-    date: '2023-12-08'
-    date_end: '2023-12-09'
+    date: '2023-12-14'
+    date_end: '2023-12-15'
     mattermost_channel: brainhack-toronto
     twitter_handle: brainhackto
     facebook:
@@ -781,7 +783,7 @@ events:
     github_username: brainhackto
     image:
     image_caption:
-    publishDate: '2033-10-24'
+    publishDate: '2023-10-26'
   - title: Brainhack UCLA
     format: hybrid
     display: false
