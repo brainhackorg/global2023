@@ -257,17 +257,17 @@ events:
     image_caption: 'Image credit: [**Brainhack Krakow**](https://www.brainhack-krakow.org)'
     publishDate: '2033-10-24'
   - title: Brainhack Australasia
-    format: In person
-    display: false
+    format: hybrid
+    display: true
     abstract:
     summary:
     organizers:
       - Kelly Garner
-      - Tom Close
+      - Chris Nolan
     contact:
       - getkellygarner@gmail.com
-      - tom.g.close@gmail.com
-    location: University of Sydney / National Imaging Facility
+      - christopher.nolan@unsw.edu.au
+    location: University of Sydney
     address:
       street:
       city: Sydney
@@ -277,8 +277,8 @@ events:
     position:
       lat: -33.888173886142376
       lng: 151.18746700082073
-    date: '2023-11-30'
-    date_end: '2023-12-02'
+    date: '2023-11-22'
+    date_end: '2023-11-24'
     mattermost_channel: brainhack-australasia
     twitter_handle: OHBM_Australia
     facebook:
@@ -287,7 +287,7 @@ events:
     github_username: brainhack-aus
     image: australia.jpg
     image_caption: 'Image credit: [**Brainhack Australia**](https://brainhack-aus.github.io/global2021/)'
-    publishDate: '2033-10-24'
+    publishDate: '2023-10-26'
   - title: Brainhack Donostia
     format: In person
     display: true

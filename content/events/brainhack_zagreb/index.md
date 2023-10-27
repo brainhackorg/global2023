@@ -8,13 +8,14 @@ title: Brainhack Zagreb
 event: Brainhack Zagreb
 event_url: https://brainhackzg.github.io/
 
-location: University of Zagreb School of Medicine, Faculty of Electrical Engineering and Computing
+location: University of Zagreb School of Medicine, Faculty of Electrical Engineering and 
+Computing
 
 address:
-  street:
+  street: 
   city: Zagreb
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: Croatia
 
 summary: |
@@ -70,3 +71,4 @@ links:
     url: https://www.github.com/brainhackzg
 
 ---
+
