@@ -11,15 +11,15 @@ event_url: https://openscienceinitiativeuniversitymarburg.github.io/
 location: Open Science Initiative University Marburg
 
 address:
-  street:
+  street: 
   city: Marburg
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: Germany
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -37,7 +37,8 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)"
+  caption: "Image credit: [**Brainhack 
+Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)"
   focal_point: center
 
 links:
@@ -64,3 +65,4 @@ links:
     url: https://www.github.com/openscienceinitiativeuniversitymarburg
 
 ---
+

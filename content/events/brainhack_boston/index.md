@@ -13,13 +13,13 @@ location: MIT
 address:
   street: MIT
   city: Cambridge
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: USA
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,3 +60,4 @@ links:
     url: https://www.github.com/brainhack-boston
 
 ---
+
