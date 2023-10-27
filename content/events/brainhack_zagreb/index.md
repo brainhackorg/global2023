@@ -17,18 +17,20 @@ address:
   postcode:
   country: Croatia
 
-summary:
+summary: |
+         Next generation brain diagnostic tools
 
-abstract:
+abstract: |
+          Next generation brain diagnostic tools
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-12-03"
-date_end: "2023-12-04"
+date: "2023-10-21"
+date_end: "2023-10-22"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-08-09"
+publishDate: "2023-10-26"
 
 authors: []
 tags: []
@@ -47,6 +49,10 @@ links:
     url: https://brainhackzg.github.io/
 
 
+  - icon: mattermost
+    icon_pack: custom
+    name: Mattermost
+    url: https://mattermost.brainhack.org/brainhack/channels/brainhack-zagreb
 
   - icon: facebook
     icon_pack: fab

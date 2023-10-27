@@ -86,6 +86,9 @@ body:
         - Brainhack Donostia
         - Brainhack Lucca
         - Brainhack Marseille
+        - Brainhack Montreal
+        - Brainhack Vienna
+        - Brainhack Zagreb
         - Open Science Days Marburg
     validations:
       required: true
