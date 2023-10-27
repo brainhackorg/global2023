@@ -37,8 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**BrainHack
-Magdeburg**](https://brainhack-magdeburg.github.io/)"
+  caption: "Image credit: [**BrainHack Magdeburg**](https://brainhack-magdeburg.github.io/)"
   focal_point: center
 
 links:

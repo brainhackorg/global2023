@@ -37,8 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack
-Marseille**](https://brainhack-marseille.github.io/)"
+  caption: "Image credit: [**Brainhack Marseille**](https://brainhack-marseille.github.io/)"
   focal_point: center
 
 links:
