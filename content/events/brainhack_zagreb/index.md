@@ -11,10 +11,10 @@ event_url: https://brainhackzg.github.io/
 location: University of Zagreb School of Medicine, Faculty of Electrical Engineering and Computing
 
 address:
-  street: 
+  street:
   city: Zagreb
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Croatia
 
 summary: |
@@ -30,7 +30,7 @@ date_end: "2023-10-22"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-10-26"
+publishDate: "2023-10-28"
 
 authors: []
 tags: []
@@ -70,4 +70,3 @@ links:
     url: https://www.github.com/brainhackzg
 
 ---
-

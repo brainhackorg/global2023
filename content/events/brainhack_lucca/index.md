@@ -6,20 +6,20 @@
 
 title: Brainhack Lucca
 event: Brainhack Lucca
-event_url: 
+event_url:
 
 location: IMT school for advanced studies
 
 address:
   street: Piazza S.Francesco, 19
   city: Lucca
-  region: 
+  region:
   postcode: 55100
   country: Italy
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2013-12-07"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-10-26"
+publishDate: "2023-10-28"
 
 authors: []
 tags: []
@@ -48,4 +48,3 @@ links:
 
 
 ---
-

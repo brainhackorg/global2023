@@ -11,15 +11,15 @@ event_url: https://brainhack-marseille.github.io/
 location: Salle Pouillon, Saint Charles campus
 
 address:
-  street: 
+  street:
   city: Marseille
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: France
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2023-12-06"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-10-26"
+publishDate: "2023-10-28"
 
 authors: []
 tags: []
@@ -37,8 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack 
-Marseille**](https://brainhack-marseille.github.io/)"
+  caption: "Image credit: [**Brainhack Marseille**](https://brainhack-marseille.github.io/)"
   focal_point: center
 
 links:
@@ -65,4 +64,3 @@ links:
     url: https://www.github.com/brainhack-marseille
 
 ---
-

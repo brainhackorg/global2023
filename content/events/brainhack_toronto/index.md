@@ -8,18 +8,18 @@ title: BrainHack Toronto
 event: BrainHack Toronto
 event_url: https://brainhackto.github.io/global-toronto-12-2023/
 
-location: Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health
+location: The Krembil Centre for Neuroinformatics (12th floor)
 
 address:
-  street: 
+  street: 250 College St.
   city: Toronto
-  region: 
-  postcode: 
+  region: Ontario
+  postcode: M5T 1R8
   country: Canada
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2023-12-15"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-10-26"
+publishDate: "2023-10-28"
 
 authors: []
 tags: []
@@ -64,4 +64,3 @@ links:
     url: https://www.github.com/brainhackto
 
 ---
-

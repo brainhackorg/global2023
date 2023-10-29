@@ -6,20 +6,20 @@
 
 title: BrainHack UVA
 event: BrainHack UVA
-event_url: 
+event_url:
 
 location: University of Virginia
 
 address:
-  street: 
+  street:
   city: Charlottesville
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: USA
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-10-24"
+publishDate: "2033-10-26"
 
 authors: []
 tags: []
@@ -52,4 +52,3 @@ links:
 
 
 ---
-
