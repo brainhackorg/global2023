@@ -18,8 +18,7 @@ address:
   country: USA
 
 summary: |
-         Brainhack brings together cross-disciplinary researchers within the neuroimaging 
-community at UCLA
+         Brainhack brings together cross-disciplinary researchers within the neuroimaging community at UCLA
 
 abstract: 
 
