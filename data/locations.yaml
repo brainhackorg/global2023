@@ -65,7 +65,7 @@ events:
     github_username: brainhack-vienna
     image: vienna.png
     image_caption: 'Image credit: [**Brainhack Vienna**](https://brainhack-vienna.github.io/)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack Lucca
     format: Hybrid
     display: true
@@ -90,14 +90,14 @@ events:
     date: '2023-12-04'
     date_end: '2013-12-07'
     mattermost_channel:
-    twitter_handle:
+    twitter_handle: BrainHackLucca
     facebook:
     instagram:
-    website:
-    github_username:
+    website: https://brainhacklucca.github.io/index.html
+    github_username: brainhacklucca
     image:
     image_caption:
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack Warsaw
     format: In person
     display: false
@@ -127,7 +127,7 @@ events:
     github_username:
     image: warsaw.png
     image_caption: 'Image credit: [**Brainhack Warsaw**](https://brainhackwarsaw.fuw.edu.pl/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Bay Area Brainhack
     format: Hybrid
     display: false
@@ -159,7 +159,7 @@ events:
     github_username:
     image: bayarea.png
     image_caption: 'Image credit: [**Bay Area Brainhack**](https://brainhack-bayarea.github.io/home/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Physiopy
     format: Online
     display: false
@@ -191,7 +191,7 @@ events:
     github_username: physiopy
     image: physiopy.png
     image_caption: 'Image credit: [**Brainhack Physiopy**](https://github.com/physiopy)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: The BOB Hack
     format: In person
     display: false
@@ -223,7 +223,7 @@ events:
     github_username:
     image: malta.jpg
     image_caption: 'Image credit: [**The BOB Hack**](https://boblab.info)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Krakow
     format: In person
     display: false
@@ -255,7 +255,7 @@ events:
     github_username: Brainhack-2023
     image: krakow.jpg
     image_caption: 'Image credit: [**Brainhack Krakow**](https://www.brainhack-krakow.org)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Australasia
     format: hybrid
     display: true
@@ -287,7 +287,7 @@ events:
     github_username: brainhack-aus
     image: australia.jpg
     image_caption: 'Image credit: [**Brainhack Australia**](https://brainhack-aus.github.io/global2021/)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack Donostia
     format: In person
     display: true
@@ -319,7 +319,7 @@ events:
     github_username: Brainhack-Donostia
     image: donostia.jpg
     image_caption: 'Image credit: [**Brainhack Donostia**](https://brainhack-donostia.github.io)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack Marseille
     format: Hybrid
     display: true
@@ -350,7 +350,7 @@ events:
     github_username: brainhack-marseille
     image: marseille.png
     image_caption: 'Image credit: [**Brainhack Marseille**](https://brainhack-marseille.github.io/)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: BrainHack Bloomington
     format: online
     display: false
@@ -380,7 +380,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: BrainHack Minipig
     format: online
     display: false
@@ -410,7 +410,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: BrainHack MIT
     format: online
     display: false
@@ -440,7 +440,7 @@ events:
     github_username: neuronets
     image: mit.jpg
     image_caption: 'Image credit: [**BrainHack MIT**](https://neuronets.github.io/mit-brainhack2023/?version=b7e8e2f)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: BrainHack Yale
     format: IRL
     display: false
@@ -470,7 +470,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Taipei
     format: IRL
     display: false
@@ -500,7 +500,7 @@ events:
     github_username: langsci-edu
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Open Science Days Marburg
     format: In person
     display: true
@@ -532,7 +532,7 @@ events:
     github_username: openscienceinitiativeuniversitymarburg
     image: marburg.png
     image_caption: 'Image credit: [**Brainhack Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack Zagreb
     format: In person
     display: true
@@ -565,7 +565,7 @@ events:
     github_username: brainhackzg
     image: zagreb.png
     image_caption: 'Image credit: [**Brainhack Zagreb**](https://brainhackzg.github.io/)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: BrainWeb metaverse
     format: online
     display: false
@@ -595,7 +595,7 @@ events:
     github_username: brain-web
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Avoca
     format: hybrid
     display: false
@@ -625,7 +625,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Washington DC
     format: in person
     display: false
@@ -658,7 +658,7 @@ events:
     github_username: brainhackdc
     image: washington.png
     image_caption: 'Image credit: [**Brainhack Washington DC**](https://brainhackdc.github.io/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: BrainHack UVA
     format: IRL
     display: false
@@ -688,7 +688,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Western
     format: In person
     display: true
@@ -720,7 +720,7 @@ events:
     github_username: brainhackwestern
     image: western.png
     image_caption: 'Image credit: [**Brainhack Western**](https://brainhackwestern.github.io)'
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack Geneva
     format: In person
     display: false
@@ -752,7 +752,7 @@ events:
     github_username:
     image: geneva.jpg
     image_caption: 'Image credit: [**Brainhack Geneva**](https://brainhack.ch/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: BrainHack Toronto
     format: Hybrid
     display: true
@@ -782,7 +782,7 @@ events:
     github_username: brainhackto
     image:
     image_caption:
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: Brainhack UCLA
     format: hybrid
     display: false
@@ -812,7 +812,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Nordic
     format: In person
     display: false
@@ -842,7 +842,7 @@ events:
     github_username: openneuropet
     image: nordic.png
     image_caption: 'Image credit: [**Brainhack Nordic**](https://openneuropet.github.io/brainhack/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Zurich
     format: hybrid
     display: false
@@ -872,7 +872,7 @@ events:
     github_username:
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Boston
     format: in person
     display: false
@@ -902,7 +902,7 @@ events:
     github_username: brainhack-boston
     image: boston.png
     image_caption: 'Image credit: [**Brainhack Boston**](https://brainhack-boston.github.io/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack NYC
     format: hybrid
     display: false
@@ -932,7 +932,7 @@ events:
     github_username: brainhacknyc
     image:
     image_caption:
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'
   - title: Brainhack Montreal
     format: hybrid
     display: true
@@ -962,7 +962,7 @@ events:
     github_username: brainhackmtl
     image: montreal.jpeg
     image_caption:
-    publishDate: '2023-10-28'
+    publishDate: '2023-11-11'
   - title: BrainHack Magdeburg
     format: Hybrid
     display: false
@@ -993,4 +993,4 @@ events:
     github_username: brainhack-magdeburg
     image: magdeburg.png
     image_caption: 'Image credit: [**BrainHack Magdeburg**](https://brainhack-magdeburg.github.io/)'
-    publishDate: '2033-10-26'
+    publishDate: '2033-11-09'

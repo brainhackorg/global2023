@@ -11,16 +11,16 @@ event_url: https://brain-web.github.io
 location: Institut Pasteur
 
 address:
-  street:
+  street: 
   city: Paris
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: France
 
 summary: |
          VR and AR in neuroscience
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,7 +29,7 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-10-26"
+publishDate: "2033-11-09"
 
 authors: []
 tags: []
@@ -65,3 +65,4 @@ links:
     url: https://www.github.com/brain-web
 
 ---
+

@@ -13,13 +13,13 @@ location: MIT
 address:
   street: MIT
   city: Cambridge
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: USA
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2023-12-09"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-10-26"
+publishDate: "2033-11-09"
 
 authors: []
 tags: []
@@ -60,3 +60,4 @@ links:
     url: https://www.github.com/brainhack-boston
 
 ---
+

@@ -13,7 +13,7 @@ location: Institute of Psychology
 address:
   street: Romana Ingardena 6
   city: Krakow
-  region:
+  region: 
   postcode: 30-060
   country: Poland
 
@@ -30,7 +30,7 @@ date_end: "2023-10-23"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-10-26"
+publishDate: "2033-11-09"
 
 authors: []
 tags: []
@@ -66,3 +66,4 @@ links:
     url: https://www.github.com/Brainhack-2023
 
 ---
+
