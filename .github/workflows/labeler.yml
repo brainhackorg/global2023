@@ -8,12 +8,12 @@ on:
 jobs:
   labeller:
     if: github.repository_owner == 'brainhackorg'
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: github/issue-labeler@v3.2
+      - uses: github/issue-labeler@v3.3
         with:
           # Secret token needed (not sure which permisions though)
-          repo-token: "${{ secrets.LABELLER }}"
+          repo-token: ${{ github.token }}
           # File with label/regex match dictionary
           configuration-path: .github/labeler.yml
           # This can be increased if the dictionary undergoes a breaking change
