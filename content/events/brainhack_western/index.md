@@ -28,7 +28,7 @@ date_end: "2023-11-03"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-11"
+publishDate: "2023-11-13"
 
 authors: []
 tags: []

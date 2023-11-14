@@ -28,7 +28,7 @@ date_end: "2023-11-24"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-11"
+publishDate: "2023-11-13"
 
 authors: []
 tags: []
@@ -37,8 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack 
-Australia**](https://brainhack-aus.github.io/global2021/)"
+  caption: "Image credit: [**Brainhack Australia**](https://brainhack-aus.github.io/global2021/)"
   focal_point: center
 
 links:

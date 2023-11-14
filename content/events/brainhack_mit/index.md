@@ -28,7 +28,7 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-11-09"
+publishDate: "2033-11-11"
 
 authors: []
 tags: []
@@ -37,8 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**BrainHack 
-MIT**](https://neuronets.github.io/mit-brainhack2023/?version=b7e8e2f)"
+  caption: "Image credit: [**BrainHack MIT**](https://neuronets.github.io/mit-brainhack2023/?version=b7e8e2f)"
   focal_point: center
 
 links:

@@ -28,7 +28,7 @@ date_end: "2013-12-07"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-11"
+publishDate: "2023-11-13"
 
 authors: []
 tags: []
@@ -37,7 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: ""
+  caption: "Image credit: [**Brainhack Lucca**](https://brainhacklucca.github.io/index.html)"
   focal_point: center
 
 links:

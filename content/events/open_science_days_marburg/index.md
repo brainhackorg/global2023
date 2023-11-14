@@ -28,7 +28,7 @@ date_end: "2023-12-05"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-11"
+publishDate: "2023-11-13"
 
 authors: []
 tags: []
@@ -37,8 +37,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**Brainhack 
-Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)"
+  caption: "Image credit: [**Brainhack Marburg**](https://openscienceinitiativeuniversitymarburg.github.io/)"
   focal_point: center
 
 links:
