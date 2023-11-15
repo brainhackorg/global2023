@@ -11,10 +11,10 @@ event_url: https://brainhack-donostia.github.io
 location: Basque Center on Cognition, Brain and Language
 
 address:
-  street: 
+  street: Paseo Mikeletegi 69, 1st Floor
   city: Donostia
   region: 
-  postcode: 
+  postcode: 20009
   country: Basque Country
 
 summary: 
@@ -28,7 +28,7 @@ date_end: "2023-11-24"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-13"
+publishDate: "2023-11-14"
 
 authors: []
 tags: []
