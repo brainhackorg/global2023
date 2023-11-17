@@ -6,20 +6,20 @@
 
 title: Brainhack Montreal
 event: Brainhack Montreal
-event_url:
+event_url: 
 
 location: Concordia University
 
 address:
-  street:
+  street: 
   city: Montréal
   region: Québec
-  postcode:
+  postcode: 
   country: Canada
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2023-12-12"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-10-28"
+publishDate: "2023-11-15"
 
 authors: []
 tags: []
@@ -60,3 +60,4 @@ links:
     url: https://www.github.com/brainhackmtl
 
 ---
+
