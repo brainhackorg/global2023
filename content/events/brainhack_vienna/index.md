@@ -13,7 +13,7 @@ location: Medical University of Vienna, Complexity Science Hub
 address:
   street: Josefstädter Straße 39
   city: Wien
-  region: 
+  region:
   postcode: 1080
   country: Austria
 
@@ -30,7 +30,7 @@ date_end: "2023-12-06"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-14"
+publishDate: "2023-11-26"
 
 authors: []
 tags: []
@@ -58,4 +58,3 @@ links:
     url: https://www.github.com/brainhack-vienna
 
 ---
-

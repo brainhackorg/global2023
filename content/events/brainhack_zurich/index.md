@@ -6,21 +6,21 @@
 
 title: Brainhack Zurich
 event: Brainhack Zurich
-event_url: 
+event_url:
 
-location: 
+location:
 
 address:
   street: Rämistrasse 101
   city: Zürich
-  region: 
+  region:
   postcode: 8092
   country: Switzerland
 
 summary: |
          Mobile EEG and Biomarkers
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,7 +29,7 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-11-12"
+publishDate: "2033-11-24"
 
 authors: []
 tags: []
@@ -53,4 +53,3 @@ links:
 
 
 ---
-

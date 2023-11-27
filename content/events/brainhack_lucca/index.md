@@ -13,13 +13,13 @@ location: IMT school for advanced studies
 address:
   street: Piazza S.Francesco, 19
   city: Lucca
-  region: 
+  region:
   postcode: 55100
   country: Italy
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2013-12-07"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-14"
+publishDate: "2023-11-26"
 
 authors: []
 tags: []
@@ -60,4 +60,3 @@ links:
     url: https://www.github.com/brainhacklucca
 
 ---
-

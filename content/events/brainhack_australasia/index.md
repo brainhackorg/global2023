@@ -11,15 +11,15 @@ event_url: https://brainhack-aus.github.io/global2023/
 location: University of Sydney
 
 address:
-  street: 
+  street:
   city: Sydney
-  region: 
-  postcode: 
+  region:
+  postcode:
   country: Australia
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2023-11-24"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-11-14"
+publishDate: "2023-11-26"
 
 authors: []
 tags: []
@@ -64,4 +64,3 @@ links:
     url: https://www.github.com/brainhack-aus
 
 ---
-
