@@ -13,22 +13,22 @@ location: MIT
 address:
   street: MIT
   city: Cambridge
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: USA
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-12-08"
-date_end: "2023-12-09"
+date: "2023-12-11"
+date_end: "2023-12-13"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2033-11-24"
+publishDate: "2023-12-02"
 
 authors: []
 tags: []
@@ -50,7 +50,7 @@ links:
   - icon: mattermost
     icon_pack: custom
     name: Mattermost
-    url: https://mattermost.brainhack.org/brainhack/channels/bhg22-boston
+    url: https://mattermost.brainhack.org/brainhack/channels/bhg23-boston
 
 
 
@@ -60,3 +60,4 @@ links:
     url: https://www.github.com/brainhack-boston
 
 ---
+
