@@ -1016,8 +1016,8 @@ events:
     position:
       lat: 36.14472593013846
       lng: -86.80283014854133
-    date: '2024-01-18'
-    date_end: '2024-01-20'
+    date: '2024-01-20'
+    date_end: '2024-01-21'
     mattermost_channel: brainhack-vandy
     twitter_handle:
     facebook:
