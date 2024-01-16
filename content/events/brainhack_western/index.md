@@ -11,15 +11,15 @@ event_url: https://brainhackwestern.github.io
 location: University of Western Ontario
 
 address:
-  street: 
+  street:
   city: London
   region: Ontario
-  postcode: 
+  postcode:
   country: Canada
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: "2023-11-03"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-12-02"
+publishDate: "2024-01-15"
 
 authors: []
 tags: []
@@ -60,4 +60,3 @@ links:
     url: https://www.github.com/brainhackwestern
 
 ---
-

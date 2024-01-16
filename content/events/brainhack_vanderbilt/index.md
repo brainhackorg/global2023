@@ -17,18 +17,18 @@ address:
   postcode: 37240
   country: USA
 
-summary: 
+summary:
 
-abstract: 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-01-18"
-date_end: "2024-01-20"
+date: "2024-01-20"
+date_end: "2024-01-21"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2023-12-02"
+publishDate: "2024-01-15"
 
 authors: []
 tags: []
@@ -60,4 +60,3 @@ links:
     url: https://www.github.com/brainhack-vandy
 
 ---
-
