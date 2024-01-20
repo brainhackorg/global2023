@@ -49,6 +49,11 @@
       "color": "0E8A16"
     },
     {
+      "name": "Project",
+      "description": "",
+      "color": "B60205"
+    },
+    {
       "name": "tools:AFNI",
       "description": "",
       "color": "EA1D4E"

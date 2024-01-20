@@ -64,9 +64,14 @@
       "color": "0E8A16"
     },
     {
+      "name": "Project",
+      "description": "",
+      "color": "B60205"
+    },
+    {
       "name": "hub:australasia_aus",
       "description": "",
-      "color": "E99695"
+      "color": "0E8A16"
     },
     {
       "name": "modality:behavioral",

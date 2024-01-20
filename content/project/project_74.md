@@ -44,6 +44,11 @@
       "color": "0E8A16"
     },
     {
+      "name": "Project",
+      "description": "",
+      "color": "B60205"
+    },
+    {
       "name": "programming:R",
       "description": "",
       "color": "5319E7"
