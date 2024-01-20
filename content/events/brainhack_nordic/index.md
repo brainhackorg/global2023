@@ -6,7 +6,7 @@
 
 title: Brainhack Nordic
 event: Brainhack Nordic
-event_url: https://openneuropet.github.io/brainhack/
+event_url: https://openneuropet.github.io/BrainHack-Nordic/
 
 location: Copenhagen, Denmark
 
@@ -24,12 +24,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-12-05"
-date_end: "2023-12-07"
+date: "2024-01-22"
+date_end: "2024-01-24"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2034-01-13"
+publishDate: "2024-01-19"
 
 authors: []
 tags: []
@@ -45,7 +45,7 @@ links:
   - icon: globe
     icon_pack: fas
     name: Website
-    url: https://openneuropet.github.io/brainhack/
+    url: https://openneuropet.github.io/BrainHack-Nordic/
 
   - icon: twitter
     icon_pack: fab
