@@ -61,7 +61,7 @@
     {
       "name": "hub:montreal_can",
       "description": "",
-      "color": "E99695"
+      "color": "0E8A16"
     },
     {
       "name": "programming:Java",
