@@ -74,6 +74,11 @@
       "color": "0E8A16"
     },
     {
+      "name": "Project",
+      "description": "",
+      "color": "B60205"
+    },
+    {
       "name": "git_skills:3_continuous_integration",
       "description": "",
       "color": "5B6C2C"

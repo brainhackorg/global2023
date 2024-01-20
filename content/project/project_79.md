@@ -49,6 +49,11 @@
       "color": "0E8A16"
     },
     {
+      "name": "Project",
+      "description": "",
+      "color": "B60205"
+    },
+    {
       "name": "modality:behavioral",
       "description": "",
       "color": "1d76db"

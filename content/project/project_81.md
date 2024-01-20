@@ -39,6 +39,11 @@
       "color": "0E8A16"
     },
     {
+      "name": "Project",
+      "description": "",
+      "color": "B60205"
+    },
+    {
       "name": "hub:montreal_can",
       "description": "",
       "color": "0E8A16"
