@@ -6,20 +6,20 @@
 
 title: BrainHack Minipig
 event: BrainHack Minipig
-event_url:
+event_url: 
 
 location: University of Iowa
 
 address:
-  street:
+  street: 
   city: Iowa City
   region: Iowa
-  postcode:
+  postcode: 
   country: USA
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2034-01-17"
+publishDate: "2034-01-20"
 
 authors: []
 tags: []
@@ -52,3 +52,4 @@ links:
 
 
 ---
+
