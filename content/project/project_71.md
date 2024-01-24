@@ -69,7 +69,7 @@
       "color": "0E8A16"
     },
     {
-      "name": "Project",
+      "name": "project",
       "description": "",
       "color": "B60205"
     },
