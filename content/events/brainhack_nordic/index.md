@@ -13,14 +13,14 @@ location: Copenhagen, Denmark
 address:
   street: Neurobiology Research Unit
   city: Copenhangen
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: Denmark
 
 summary: |
          PET imaging and BIDS
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,7 +29,7 @@ date_end: "2024-01-24"
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2024-01-19"
+publishDate: "2024-01-22"
 
 authors: []
 tags: []
@@ -61,3 +61,4 @@ links:
     url: https://www.github.com/openneuropet
 
 ---
+

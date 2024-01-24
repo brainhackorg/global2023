@@ -11,15 +11,15 @@ event_url: https://neuronets.github.io/mit-brainhack2023/?version=b7e8e2f
 location: MIT
 
 address:
-  street:
+  street: 
   city: Boston
-  region:
-  postcode:
+  region: 
+  postcode: 
   country: USA
 
-summary:
+summary: 
 
-abstract:
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,7 +28,7 @@ date_end: ""
 all_day: true
 
 # Schedule page publish date (NOT event date).
-publishDate: "2034-01-17"
+publishDate: "2034-01-20"
 
 authors: []
 tags: []
@@ -37,7 +37,8 @@ tags: []
 featured: false
 
 image:
-  caption: "Image credit: [**BrainHack MIT**](https://neuronets.github.io/mit-brainhack2023/?version=b7e8e2f)"
+  caption: "Image credit: [**BrainHack 
+MIT**](https://neuronets.github.io/mit-brainhack2023/?version=b7e8e2f)"
   focal_point: center
 
 links:
@@ -64,3 +65,4 @@ links:
     url: https://www.github.com/neuronets
 
 ---
+
